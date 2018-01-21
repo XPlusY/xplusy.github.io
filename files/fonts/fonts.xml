@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <fonts>
+    <font name="思源黑体" className="FskyFont_syht" url="./files/fonts/font-0-0-201812122477841.swf" ttfurl="./files/fonts/font-0-0-201812122477841.ttf"/>
+    <font name="思源黑体" className="FskyFont_syht_Bold" url="./files/fonts/font-0-1-201812122478239.swf" ttfurl="./files/fonts/font-0-1-201812122478239.ttf"/>
+    <font name="思源黑体" className="FskyFont_syht_Italic" url="./files/fonts/font-0-2-201812122478579.swf" ttfurl="./files/fonts/font-0-2-201812122478579.ttf"/>
+    <font name="思源黑体" className="FskyFont_syht_Bold_Italic" url="./files/fonts/font-0-3-201812122478940.swf" ttfurl="./files/fonts/font-0-3-201812122478940.ttf"/>
+    <font name="Webding" className="" url="./files/fonts/font-1-0-201812122479309.swf" ttfurl="./files/fonts/font-1-0-201812122479309.ttf"/>
+    <font name="FontAwesome" className="" url="./files/fonts/font-2-0-201812122479327.swf" ttfurl="./files/fonts/font-2-0-201812122479327.ttf"/>
+  </fonts>
+</data>
